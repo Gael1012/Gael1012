@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gael1012
 - 👀 I’m interested in Back-End
-- 🌱 I’m currently learning avanced Python and start in C#
+- 🌱 I’m currently learning avanced Python and start in C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gabriel.dev.trainer159@gmail.com
 
